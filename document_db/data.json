@@ -1,0 +1,72 @@
+[
+  {
+    "_id": "book_001",
+    "title": "NoSQL Explained",
+    "author": "Martin Fowler",
+    "genre": "Technology",
+    "published_year": 2020
+  },
+  {
+    "_id": "book_002",
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian",
+    "published_year": 1949
+  },
+  {
+    "_id": "book_003",
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian",
+    "published_year": 1932
+  },
+  {
+    "_id": "book_004",
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "genre": "History",
+    "published_year": 2011
+  },
+  {
+    "_id": "book_005",
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Fiction",
+    "published_year": 1951
+  },
+  {
+    "_id": "book_006",
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Fiction",
+    "published_year": 1960
+  },
+  {
+    "_id": "book_007",
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Fiction",
+    "published_year": 1925
+  },
+  {
+    "_id": "book_008",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "published_year": 1937
+  },
+  {
+    "_id": "book_009",
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "published_year": 1954
+  },
+  {
+    "_id": "book_010",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "published_year": 1997
+  }
+]

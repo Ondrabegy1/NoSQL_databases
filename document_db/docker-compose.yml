@@ -1,0 +1,16 @@
+version: "3.9"
+services:
+  couchdb:
+    image: couchdb:latest  
+    container_name: document_server
+    ports:
+      - "15984:5984"
+    volumes:
+      - couchdb_data:/opt/couchdb/data  
+    environment:
+      - COUCHDB_USER=admin  
+      - COUCHDB_PASSWORD=password  
+    restart: always  
+
+volumes:
+  couchdb_data:
